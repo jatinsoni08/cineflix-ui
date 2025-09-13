@@ -30,9 +30,9 @@
   </p>
 
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="Netfliximg1" alt="Movie Streaming UI Preview 1" width="600">
-    <img src="Netfliximg2" alt="Movie Streaming UI Preview 2" width="600">
-    <img src="Netfliximg3" alt="Movie Streaming UI Preview 3" width="600">
+    <img src="Netfliximg1.png" alt="Movie Streaming UI Preview 1" width="600">
+    <img src="Netfliximg2.png" alt="Movie Streaming UI Preview 2" width="600">
+    <img src="Netfliximg3.png" alt="Movie Streaming UI Preview 3" width="600">
   </div>
 </div>
 
